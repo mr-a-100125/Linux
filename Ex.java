@@ -16,5 +16,6 @@ class Ex
 		}
 		System.out.println("Local system");
 		System.out.println("This is a remotesystem file.");
+		System.out.println("This is an example.")
 	}
 }
