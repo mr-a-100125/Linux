@@ -14,5 +14,6 @@ class Ex
 				System.out.println(e);
 			}
 		}
+		System.out.println("Local system");
 	}
 }
